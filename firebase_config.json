@@ -1,10 +1,10 @@
   {
-    "apiKey": "AIzaSyBGTJL9eN52kRjAIJy_V18uwQ9CnefDlfE",
-    "authDomain": "operation-scheduler-874c7.firebaseapp.com",
-    "projectId": "operation-scheduler-874c7",
-    "storageBucket": "operation-scheduler-874c7.appspot.com",
-    "messagingSenderId": "159282789989",
-    "appId": "1:159282789989:web:d58b3d80a7969b06ba908c",
-    "measurementId": "G-WPPLPC0KW4"
+    "apiKey": "your_APIKey",
+    "authDomain": "your_authentication_domain",
+    "projectId": "your_projectID",
+    "storageBucket": "your_storage_bucket",
+    "messagingSenderId": "your_message_sender_id",
+    "appId": "your_application_ID",
+    "measurementId": "your_measurement_ID"
   }
   
