@@ -1,13 +1,13 @@
 {
-  "type": "service_account",
-  "project_id": "operation-scheduler-874c7",
-  "private_key_id": "4d5125cacd865f840331f969f866f985f4b7d59e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJazWs4eYnnrz0\nUsc/AATqMCz0dXW8Ozw+OyRMKkcJ1Zp6KgYKipD6ipzMbiVLvK06pOGmyL5/HSoN\nHOsJaMA75MdBNyMVWY6TTcvLTDXjaz3e1j3ojNXGRf5ETbje8naCPSMLM/NUJ52b\neAyx9rOc2JPCoI6FTQ1WVwK1l3HzFkjGwxBz9cV9MQGPNAQy9utgxv+H7ybDWDDO\nRvZHPjOBcRO4KnHJONSXeuv1is8LTWjIkGV989K/y2T+EZBjie2CBA2Lv6rO92ia\njzEzyUAQW9wiXgrbwrQdXG9J8XwlR6hN3SbfjtmUqX6qevQYan3LfdvO9vMyH6t7\nxnOiFqyrAgMBAAECggEAAjjXj7+yPU+n//4FyrEiXL8JT+0XzmrM4FbgsKJqxDYC\nDUT3ahhbPxhWYH76lFpRguscvi1KxLY6p4hhI2pvbHm6pQKJtYuWYhOiouyFT6v4\nM8QjTLR5C0XsZy6AUp1UJ12rTE1Xat9BAt0RLsls89cD0krZJ6lQ81nkYsJ39FmO\njjo7XnW5Vl7V4V6AfmTrXJmniGoZjqMEZ4r5ezrfffvPvl3ptK8cmlOlbEoSzVoq\n5WxqodmRphg3EvAMZERjKTziIKDC2JoMohmC7aTPAUP/rb2YPYr0PwgODGwX7SFR\nkIiHx+gEgemKYVfJSwGw4BmNzhqlMfwMDZstjn/1MQKBgQD4UOUwCiKB5sSSf0l3\npgmi9I8qFcLtm9H6AgoZhnkOU9bJvOSLcfnkTcH4wCiDzUXOir5efniXCEtZNk0M\nyBn6dStt1bWfyrmnad/nPT4A9zkA8pA5dh0J7sop6Ke7rsQkixibXrkzVu0sRQCp\n66qH3vSgADPAmASvoQYrDL72yQKBgQDPps4V/Rb3EqT/dFbyNVKi4h8AQ+sVIafW\nSif2h0ibfd8Tvn4sPMEjeW9j1DCwtm19Wgk+foZjI4r2ez4zeSt11qf8TJASUuJR\nmiY//m1GJ0xNpZ2rdjhUJUI4dtYywG4GHWDv6EwepzwKjzM/oC+JpkazQPiOyzyb\nqt5SnJid0wKBgQCp19sLQsNbipZFhZ6gogbRWOlbZcsQbpXupNp3nwzKCfpNvk+s\nOWctCypzlCuiCxOGNEwFogeldlzjRkrpRSzPrLjpxVUXWLgnlDk7lx4D1xU8Wqzf\nQLSYCKZqh+HCc8VhIWrRSrbuMLTEpOXRU4ouqQc1MS40u0XpQwBPDcbIUQKBgEZV\nY3yDKyIoyIZWK5UChqjxGjsGxjt0GNs2Zu7Tx74TFlojraziLzEK0rXni05vnApX\nUsY+KNqvkUQHXnwk0JmrSV7lt+7c8BdftRD75ptaeDfcntkSw+WMcS+a4NZz41Bi\n5xCbiBzh3C5fbqZgZXmkPlI88XO8Vx0K9R7aN79NAoGAWyV4+4M6oA5gthDNvo/Y\nFM/nMB6Y1jbIRJd6JO1uoqOcSd6yZBMjj5wRaAa882pkk7VqqXSbN2TukxccWM7l\nHnf7niuBeJcyuAoEFdNMf72V0iyLrxfOtmWfHJIEkqz+kT23Rf7b/fMBn5PPoZz/\nSDhYKjWZ8Z6jI7VeJEeIqZc=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-mhsdz@operation-scheduler-874c7.iam.gserviceaccount.com",
-  "client_id": "100647102810430079963",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-mhsdz%40operation-scheduler-874c7.iam.gserviceaccount.com",
+  "type": "your_account_type",
+  "project_id": "your_project_ID",
+  "private_key_id": "your_privatekey_ID",
+  "private_key": "your_private_key",
+  "client_email": "email",
+  "client_id": "your_clientID",
+  "auth_url": "your_authentication_URL",
+  "token_url": "your_token_url",
+  "auth_provider_x509_cert_url": "authentication_provider_url",
+  "client_x509_cert_url": "client_url",
   "universe_domain": "googleapis.com"
 }
