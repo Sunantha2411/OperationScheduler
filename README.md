@@ -1,4 +1,4 @@
-# Flask and Firebase User Authentication
+# Operation Scheduler
 
 This project is a web application built with Flask and Firebase that provides user authentication features. It includes functionalities for user registration, login, and different dashboards for admin and regular users.
 
